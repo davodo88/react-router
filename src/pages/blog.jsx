@@ -40,6 +40,7 @@ const Blog = () => {
                 {item.id} - {item.title}
               </Link>
             )
+
           })}
       </ul>
     </>
